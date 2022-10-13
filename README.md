@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Petromir</h1>
-<h3 align="center">A self-educating full stack developer from Bulgaria</h3>
+<h3 align="center">To become a self-taught full stack developer from Bulgaria</h3>
 
 - 🔭 I’m currently progressing through [TheOdinProject online course](https://www.theodinproject.com/)
 
-- 🌱 I’m currently learning **Intermediate HTML and CSS**
+- 🌱 I’m went through learning **Programming Foundations (HTML/CSS/JavaScript/GIT..) / Intermediate HTML and CSS**
+
+- 🌱 I’m currently learning **JavaScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/petromirkolev](https://github.com/petromirkolev)
 
