@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hi, I'm <YOUR NAME>
 
-<!--
-**petromirkolev/petromirkolev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm learning programming, quality assurance, automation tools, and general software skills.  
+This GitHub is where I practice, explore new technologies, and build small learning projects.
 
-Here are some ideas to get you started:
+I update my repositories step by step as I grow my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧩 What I'm Currently Learning
+- JavaScript fundamentals  
+- Software testing basics  
+- How web applications work  
+- Simple automation tools  
+- Git & GitHub workflow  
+
+---
+
+## 📚 Learning Projects
+These are small exercises and practice repositories I work on while studying:
+
+### 🔹 JavaScript Practice
+Simple scripts and exercises as I learn JS step by step.  
+➡ `js-foundations` (coming soon)
+
+### 🔹 QA Practice
+Test cases, bug reports, exploratory testing notes.  
+➡ `manual-qa-portfolio` (coming soon)
+
+### 🔹 Automation Experiments
+My first experiments with Playwright and automated tests.  
+➡ `playwright-learning` (coming soon)
+
+---
+
+## 🛠 Tools I'm Getting Familiar With
+- JavaScript  
+- Node.js  
+- Git & GitHub  
+- Postman  
+- VS Code
