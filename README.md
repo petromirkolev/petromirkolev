@@ -1,4 +1,4 @@
-# 👋 Hi, I'm <YOUR NAME>
+# 👋 Hi, I'm Petromir!
 
 I'm learning programming, quality assurance, automation tools, and general software skills.  
 This GitHub is where I practice, explore new technologies, and build learning projects.
