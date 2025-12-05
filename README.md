@@ -8,33 +8,39 @@ I update my repositories step by step as I grow my skills.
 ---
 
 ## 🧩 What I'm Currently Learning
+
 - JavaScript fundamentals
-- Git & GitHub workflow  
-- How web applications work  
-- Software testing basics  
-- Simple automation tools  
+- Git & GitHub workflow
+- How web applications work
+- Software testing basics
+- Simple automation tools
 
 ---
 
 ## 📚 Learning Projects
+
 These are small exercises and practice repositories I work on while studying.
 
 ### 🔹 JavaScript Projects
+
 Simple scripts and exercises as I learn JS step by step.  
-➡ `js-foundations-projects` (coming soon)
+➡ "js-foundations-projects"
 
 ### 🔹 Manual QA Practice
+
 Test cases, bug reports, exploratory testing notes.  
-➡ `manual-qa-portfolio` (coming soon)
+➡ "manual-qa-portfolio" (coming soon)
 
 ### 🔹 Automation QA Practice
+
 My first experiments with Playwright and automated tests.  
-➡ `automation-qa-portfolio` (coming soon)
+➡ "automation-qa-portfolio" (coming soon)
 
 ---
 
 ## 🛠 Tools I'm Getting Familiar With
+
 - JavaScript
 - HTML & CSS
-- Git & GitHub  
+- Git & GitHub
 - VS Code
