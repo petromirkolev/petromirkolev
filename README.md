@@ -24,7 +24,7 @@ These are small exercises and practice repositories I work on while studying.
 ### 🔹 JavaScript Projects
 
 Simple scripts and exercises as I learn JS step by step.  
-➡ "js-foundations-projects"
+➡ <a href="https://github.com/petromirkolev/js-foundations-projects">"js-foundations-projects"</a>
 
 ### 🔹 Manual QA Practice
 
