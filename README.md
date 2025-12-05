@@ -24,17 +24,17 @@ These are small exercises and practice repositories I work on while studying.
 ### 🔹 JavaScript Projects
 
 Simple scripts and exercises as I learn JS step by step.  
-➡ <a href="https://github.com/petromirkolev/js-foundations-projects">"js-foundations-projects"</a>
+➡ <a href="https://github.com/petromirkolev/js-foundations-project">js-foundations-projects</a>
 
 ### 🔹 Manual QA Practice
 
 Test cases, bug reports, exploratory testing notes.  
-➡ "manual-qa-portfolio" (coming soon)
+➡ manual-qa-portfolio (coming soon)
 
 ### 🔹 Automation QA Practice
 
 My first experiments with Playwright and automated tests.  
-➡ "automation-qa-portfolio" (coming soon)
+➡ automation-qa-portfolio (coming soon)
 
 ---
 
