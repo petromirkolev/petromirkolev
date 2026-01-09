@@ -29,7 +29,7 @@ Simple scripts and exercises as I learn JS step by step.
 ### 🔹 Manual QA Practice
 
 Test cases, bug reports, exploratory testing notes.  
-➡ manual-qa-portfolio (coming soon)
+➡ <a href="https://github.com/petromirkolev/manual-qa-practice">manual-qa-portfolio</a>
 
 ### 🔹 Automation QA Practice
 
