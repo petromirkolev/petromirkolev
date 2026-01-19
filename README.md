@@ -33,12 +33,6 @@ Coming next: a dedicated repo for Playwright E2E tests (starting with Odin Todo)
 
 ## Tools
 
-- JavaScript (ES6+), HTML/CSS
-- Git/GitHub
-- Jest (unit testing for core logic)
-- Postman (API testing)
-- SQL (in progress)
-- Playwright (next)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github,jest,postman,ts)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github,jest,postman)](https://skillicons.dev)
-[![Next](https://skillicons.dev/icons?i=playwright,ts)](https://skillicons.dev)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
