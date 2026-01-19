@@ -33,8 +33,6 @@ Coming next: a dedicated repo for Playwright E2E tests (starting with Odin Todo)
 
 ## Tools
 
-### Tools
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript)
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5)
