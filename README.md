@@ -1,46 +1,48 @@
-# 👋 Hi, I'm Petromir!
+👋 Hi, I'm Petromir
 
-I'm learning programming, quality assurance, automation tools, and general software skills.  
-This GitHub is where I practice, explore new technologies, and build learning projects.
-
-I update my repositories step by step as I grow my skills.
+I’m transitioning into QA (manual → automation) with a JavaScript-first path.
 
 ---
 
-## 🧩 What I'm Currently Learning
+## Focus right now
 
-- JavaScript fundamentals
-- Git & GitHub workflow
-- How web applications work
-- Software testing basics
-- Simple automation tools
-
----
-
-## 📚 Learning Projects
-
-These are small exercises and practice repositories I work on while studying.
-
-### 🔹 JavaScript Projects
-
-Simple scripts and exercises as I learn JS step by step.  
-➡ <a href="https://github.com/petromirkolev/js-foundations-projects">js-foundations-projects</a>
-
-### 🔹 Manual QA Practice
-
-Test cases, bug reports, exploratory testing notes.  
-➡ <a href="https://github.com/petromirkolev/manual-qa-practice">manual-qa-portfolio</a>
-
-### 🔹 Automation QA Practice
-
-My first experiments with Playwright and automated tests.  
-➡ automation-qa-portfolio (coming soon)
+- Manual QA fundamentals (test design, execution, bug reporting)
+- API testing (Postman)
+- SQL basics for QA
+- Automation foundations (Playwright, next)
 
 ---
 
-## 🛠 Tools I'm Getting Familiar With
+## Key repositories
 
-- JavaScript
-- HTML & CSS
-- Git & GitHub
-- VS Code
+### ✅ JavaScript projects + labs
+
+<a href="https://github.com/petromirkolev/js-foundations-projects">js-foundations-projects</a>
+Odin-style apps + smaller labs focused on state, DOM rendering, async, and APIs.
+
+### ✅ Manual QA practice + artifacts
+
+<a href="https://github.com/petromirkolev/manual-qa-practice">manual-qa-portfolio</a>
+Test cases, executed test run summaries, bug reports, and API testing collections (Postman) tied to real apps (Odin Weather / Todo).
+
+### 🔜 Automation QA (Playwright)
+
+Coming next: a dedicated repo for Playwright E2E tests (starting with Odin Todo).
+
+---
+
+## Tools
+
+- JavaScript (ES6+), HTML/CSS
+- Git/GitHub
+- Jest (unit testing for core logic)
+- Postman (API testing)
+- SQL (in progress)
+- Playwright (next)
+
+---
+
+### Tech
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github,jest,postman)](https://skillicons.dev)
+[![Next](https://skillicons.dev/icons?i=playwright,ts)](https://skillicons.dev)
