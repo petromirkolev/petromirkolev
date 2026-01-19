@@ -33,6 +33,15 @@ Coming next: a dedicated repo for Playwright E2E tests (starting with Odin Todo)
 
 ## Tools
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github,jest,postman,ts)](https://skillicons.dev)
+### Tools
 
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3)
+![Jest](https://img.shields.io/badge/Jest-000000?style=for-the-badge&logo=jest)
+![Postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman)
+![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)
+![Playwright](https://img.shields.io/badge/Playwright-000000?style=for-the-badge&logo=playwright)
