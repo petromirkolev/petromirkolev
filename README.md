@@ -40,9 +40,5 @@ Coming next: a dedicated repo for Playwright E2E tests (starting with Odin Todo)
 - SQL (in progress)
 - Playwright (next)
 
----
-
-### Tech
-
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github,jest,postman)](https://skillicons.dev)
 [![Next](https://skillicons.dev/icons?i=playwright,ts)](https://skillicons.dev)
