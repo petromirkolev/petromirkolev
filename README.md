@@ -1,15 +1,15 @@
 👋 Hi, I'm Petromir
 
-I’m transitioning into QA (manual → automation) with a JavaScript-first path.
+I’m transitioning into QA Automation (manual → automation) with a JavaScript-first, hands-on path: build apps → test them → harden for CI.
 
 ---
 
 ## Focus right now
 
-- Manual QA fundamentals (test design, execution, bug reporting)
-- API testing (Postman)
+- Playwright E2E (POM, stable selectors, CI reliability)
+- API testing (Playwright request + Postman)
+- Test design + bug reporting
 - SQL basics for QA
-- Automation foundations (Playwright, next)
 
 ---
 
@@ -17,17 +17,19 @@ I’m transitioning into QA (manual → automation) with a JavaScript-first path
 
 ### ✅ JavaScript projects + labs
 
-<a href="https://github.com/petromirkolev/js-foundations-projects">js-foundations-projects</a>
+<a href="https://github.com/petromirkolev/js-foundations-projects">js-foundations-projects</a>  
 Odin-style apps + smaller labs focused on state, DOM rendering, async, and APIs.
 
 ### ✅ Manual QA practice + artifacts
 
-<a href="https://github.com/petromirkolev/manual-qa-practice">manual-qa-portfolio</a>
-Test cases, executed test run summaries, bug reports, and API testing collections (Postman) tied to real apps (Odin Weather / Todo).
+<a href="https://github.com/petromirkolev/manual-qa-practice">manual-qa-practice</a>  
+Test cases, test run summaries, bug reports, and Postman collections tied to real apps (Todo / Weather).
 
-### 🔜 Automation QA (Playwright)
+### ✅ Automation QA (Playwright)
 
-Coming next: a dedicated repo for Playwright E2E tests (starting with Odin Todo).
+<a href="https://github.com/petromirkolev/automation-qa-playwright">automation-qa-playwright</a>  
+E2E suites for my own apps (Todo / Weather / Registration form).  
+Key work: POM refactors, persistence testing, CI hardening, and API isolation/mocking for reliability.
 
 ---
 
@@ -37,9 +39,8 @@ Coming next: a dedicated repo for Playwright E2E tests (starting with Odin Todo)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript)
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3)
-![Jest](https://img.shields.io/badge/Jest-000000?style=for-the-badge&logo=jest)
+![Playwright](https://img.shields.io/badge/Playwright-000000?style=for-the-badge&logo=playwright)
 ![Postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman)
 ![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql)
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)
-![Playwright](https://img.shields.io/badge/Playwright-000000?style=for-the-badge&logo=playwright)
