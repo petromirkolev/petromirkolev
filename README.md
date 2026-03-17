@@ -19,7 +19,7 @@ I’m transitioning into QA Automation with a JavaScript/TypeScript, hands-on pa
 
 ### ✅ Moto Care — full-stack motorcycle maintenance tracker with automated test coverage
 
-<a href="https://github.com/petromirkolev/motorcycle-maintenance-assistant">motorcycle-maintenance-assistant</a>  
+<a href="https://github.com/petromirkolev/motocare">MotoCare</a>  
 A motorcycle maintenance tracker built to learn QA-relevant full-stack skills through a real app.
 
 Current work includes:
@@ -37,7 +37,7 @@ Current work includes:
 
 ### ✅ Meteo Station Dashboard — real-time sensor dashboard with deterministic replay testing
 
-<a href="https://github.com/petromirkolev/meteo-station-dashboard">meteo-station-dashboard</a>  
+<a href="https://github.com/petromirkolev/meteo-station-dashboard">Meteo Station Dashboard</a>  
 A real-time dashboard project built to explore testable streaming data flows.
 
 It demonstrates:
@@ -51,7 +51,7 @@ It demonstrates:
 
 ### ✅ Automation QA (Playwright)
 
-<a href="https://github.com/petromirkolev/automation-qa-playwright">automation-qa-playwright</a>  
+<a href="https://github.com/petromirkolev/automation-qa-playwright">Playwright practice</a>  
 E2E suites for my own apps (Todo / Weather / Registration form).  
 Key work: POM refactors, persistence testing, CI hardening, and API isolation/mocking for reliability.
 
