@@ -1,49 +1,53 @@
 👋 Hi, I'm Petromir
 
-I’m transitioning into QA Automation (manual → automation) with a JavaScript-first, hands-on path: build apps → test them → harden for CI.
+I’m transitioning into QA Automation with a JavaScript/TypeScript, hands-on path built around real projects: designing apps, testing them end-to-end, validating backend behavior, and making the automation reliable in CI.
 
 ---
 
-## Focus right now
+### 🧠 Skills & Focus
 
-- Playwright E2E (POM, stable selectors, CI reliability)
+- JavaScript (Learning), TypeScript (Learning)
+- Playwright E2E automation
 - API testing (Playwright request + Postman)
-- Test design + bug reporting
+- Test design, validation, and bug reporting
 - SQL + backend basics for QA
-- Building small but realistic apps with real auth, API, and DB flows
+- Building realistic apps with auth, API, database, and CI flows
 
 ---
 
 ## Key repositories
 
-### ✅ Moto Care — full-stack learning project
+### ✅ Moto Care — full-stack motorcycle maintenance tracker with automated test coverage
 
 <a href="https://github.com/petromirkolev/motorcycle-maintenance-assistant">motorcycle-maintenance-assistant</a>  
 A motorcycle maintenance tracker built to learn QA-relevant full-stack skills through a real app.
 
 Current work includes:
 
-- frontend in TypeScript
+- TypeScript frontend
 - Node + Express backend
 - SQLite persistence
-- user register/login
+- user registration and login
 - backend-backed bike CRUD
-- gradual migration from local state to API + DB
+- maintenance scheduling and service logging
+- maintenance history and derived status states
+- Playwright end-to-end coverage across auth, garage, and maintenance
+- API-level automated tests for backend validation and contract checks
+- GitHub Actions CI
 
-This project is mainly a vehicle for learning how real systems behave so they can be tested properly.
-
-### ✅ Meteo Station Dashboard — real-time / replay-based testing project
+### ✅ Meteo Station Dashboard — real-time sensor dashboard with deterministic replay testing
 
 <a href="https://github.com/petromirkolev/meteo-station-dashboard">meteo-station-dashboard</a>  
 A real-time dashboard project built to explore testable streaming data flows.
 
-Key ideas:
+It demonstrates:
 
-- browser dashboard fed through a Node bridge
-- live vs replay mode
-- deterministic replay data for reliable automated testing
-
-This project helped me practice testing beyond standard CRUD apps by working with stateful, time-based, and event-driven behavior.
+- sensor data streaming from Arduino through a Node bridge
+- browser dashboard updates over WebSocket
+- live mode vs deterministic replay mode
+- replayable NDJSON data for reliable automated testing
+- separation between hardware-driven and test-driven runtime paths
+- system design aimed at QA-friendly reproducibility rather than only live demos
 
 ### ✅ Automation QA (Playwright)
 
