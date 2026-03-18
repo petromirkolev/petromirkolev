@@ -6,7 +6,7 @@ I’m transitioning into QA Automation with a JavaScript/TypeScript, hands-on pa
 
 ### 🧠 Skills & Focus
 
-- JavaScript (Learning), TypeScript (Learning)
+- JavaScript, TypeScript
 - Playwright E2E automation
 - API testing (Playwright request + Postman)
 - Test design, validation, and bug reporting
@@ -17,43 +17,49 @@ I’m transitioning into QA Automation with a JavaScript/TypeScript, hands-on pa
 
 ## Key repositories
 
-### ✅ Moto Care — full-stack motorcycle maintenance tracker with automated test coverage
+### ✅ Moto Care — full-stack motorcycle maintenance tracker
 
 <a href="https://github.com/petromirkolev/motocare">MotoCare</a>  
 A motorcycle maintenance tracker built to learn QA-relevant full-stack skills through a real app.
 
 Current work includes:
 
-- TypeScript frontend
-- Node + Express backend
+- TypeScript frontend & Node + Express backend
 - SQLite persistence
-- user registration and login
-- backend-backed bike CRUD
-- maintenance scheduling and service logging
-- maintenance history and derived status states
+- User registration and login
+- Backend-backed bike CRUD
+- Maintenance scheduling and service logging
+- Maintenance history and derived status states
 - Playwright end-to-end coverage across auth, garage, and maintenance
 - API-level automated tests for backend validation and contract checks
 - GitHub Actions CI
 
-### ✅ Meteo Station Dashboard — real-time sensor dashboard with deterministic replay testing
+### ✅ MotoCare Jobs — motorcycle service job tracker
+
+<a href="https://github.com/petromirkolev/motocare-jobs">MotoCare Jobs</a>
+A smaller full-stack project focused on service-job workflows, status transitions, and backend/API-driven app behavior.
+
+Current work includes:
+
+- TypeScript frontend & Node/Express backend
+- User registration and login
+- Bike creation and deletion
+- Service job creation and listing
+- Controlled job status transitions
+- SQLite persistence
+- API testing around auth, bikes, jobs, and integrity rules
+
+### ✅ Meteo Station Dashboard — real-time sensor dashboard with deterministic replay
 
 <a href="https://github.com/petromirkolev/meteo-station-dashboard">Meteo Station Dashboard</a>  
 A real-time dashboard project built to explore testable streaming data flows.
 
-It demonstrates:
+Current work includes:
 
-- sensor data streaming from Arduino through a Node bridge
-- browser dashboard updates over WebSocket
-- live mode vs deterministic replay mode
-- replayable NDJSON data for reliable automated testing
-- separation between hardware-driven and test-driven runtime paths
-- system design aimed at QA-friendly reproducibility rather than only live demos
-
-### ✅ Automation QA (Playwright)
-
-<a href="https://github.com/petromirkolev/automation-qa-playwright">Playwright practice</a>  
-E2E suites for my own apps (Todo / Weather / Registration form).  
-Key work: POM refactors, persistence testing, CI hardening, and API isolation/mocking for reliability.
+- Sensor data streaming from Arduino through a Node bridge
+- Browser dashboard updates over WebSocket
+- Live mode vs deterministic replay mode
+- Replayable NDJSON data for reliable automated testing
 
 ---
 
@@ -71,3 +77,4 @@ Key work: POM refactors, persistence testing, CI hardening, and API isolation/mo
 ![SQLite](https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite)
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker)
