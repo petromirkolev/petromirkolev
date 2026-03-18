@@ -19,7 +19,8 @@ I’m transitioning into QA Automation with a JavaScript/TypeScript, hands-on pa
 
 ### ✅ Moto Care — full-stack motorcycle maintenance tracker
 
-<a href="https://github.com/petromirkolev/motocare">MotoCare</a>  
+<a href="https://github.com/petromirkolev/motocare">MotoCare</a>
+
 A motorcycle maintenance tracker built to learn QA-relevant full-stack skills through a real app.
 
 Current work includes:
@@ -37,6 +38,7 @@ Current work includes:
 ### ✅ MotoCare Jobs — motorcycle service job tracker
 
 <a href="https://github.com/petromirkolev/motocare-jobs">MotoCare Jobs</a>
+
 A smaller full-stack project focused on service-job workflows, status transitions, and backend/API-driven app behavior.
 
 Current work includes:
@@ -51,7 +53,8 @@ Current work includes:
 
 ### ✅ Meteo Station Dashboard — real-time sensor dashboard with deterministic replay
 
-<a href="https://github.com/petromirkolev/meteo-station-dashboard">Meteo Station Dashboard</a>  
+<a href="https://github.com/petromirkolev/meteo-station-dashboard">Meteo Station Dashboard</a>
+
 A real-time dashboard project built to explore testable streaming data flows.
 
 Current work includes:
