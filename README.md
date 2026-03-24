@@ -39,19 +39,22 @@ Highlights:
 ### ✅ MotoCare Service Tracker — motorcycle service workflow app
 
 [GitHub Repo](https://github.com/petromirkolev/motocare-service-tracker)
+[Live Demo](https://motocare-service-tracker-web.onrender.com/)
 
 A smaller full-stack project focused on service-job workflows, backend state transitions, and API-driven behavior.
 
 Highlights:
 
 - TypeScript frontend + Node/Express backend
-- User registration and login
-- Bike creation and deletion
-- Service job creation and listing
-- Controlled job status transitions
+- PostgreSQL on Neon
+- deployment on Render
+- user registration and login
+- bike creation and deletion
+- service job creation and listing
+- controlled job status transitions
+- filtering and persistence behavior
 - Dockerized local run
 - Playwright UI + API coverage
-- CI-ready structure
 
 ### ✅ Meteo Station Dashboard — real-time sensor dashboard with deterministic replay
 
