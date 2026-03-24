@@ -19,8 +19,9 @@ I’m transitioning into QA Automation through hands-on JavaScript/TypeScript pr
 
 ### ✅ MotoCare Maintenance Tracker — full-stack motorcycle maintenance app
 
-[GitHub Repo](https://github.com/petromirkolev/motocare-maintenance-tracker)  
-[Live Demo](https://motocare-maintenance-tracker-web.onrender.com/)
+[GitHub Repo](https://github.com/petromirkolev/motocare-maintenance-tracker)
+
+[Live Demo](https://motocare-maintenance-tracker.onrender.com/)
 
 A full-stack motorcycle maintenance tracker built to learn QA-relevant engineering skills through a real deployed app.
 
@@ -39,7 +40,8 @@ Highlights:
 ### ✅ MotoCare Service Tracker — motorcycle service workflow app
 
 [GitHub Repo](https://github.com/petromirkolev/motocare-service-tracker)
-[Live Demo](https://motocare-service-tracker-web.onrender.com/)
+
+[Live Demo](https://motocare-service-tracker.onrender.com/)
 
 A smaller full-stack project focused on service-job workflows, backend state transitions, and API-driven behavior.
 
