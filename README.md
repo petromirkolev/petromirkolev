@@ -23,6 +23,8 @@ I build and test realistic full-stack applications using **Playwright**, with a 
 
 #### ✅ MotoCare Maintenance Tracker — Full-stack motorcycle maintenance app
 
+[![Playwright Tests](https://github.com/petromirkolev/MotoCare-Maintenance-Tracker/actions/workflows/playwright.yml/badge.svg)](https://github.com/petromirkolev/MotoCare-Maintenance-Tracker/actions/workflows/playwright.yml)
+
 [GitHub Repo](https://github.com/petromirkolev/motocare-maintenance-tracker)
 
 [Live Demo](https://motocaremaintenance.petromirkolev.com/)
@@ -32,6 +34,8 @@ Built and tested a complete app with user auth, motorcycle CRUD, maintenance sch
 
 #### ✅ MotoCare Service Tracker — Service job workflow application
 
+[![Playwright Tests](https://github.com/petromirkolev/MotoCare-Service-Tracker/actions/workflows/playwright.yml/badge.svg)](https://github.com/petromirkolev/MotoCare-Service-Tracker/actions/workflows/playwright.yml)
+
 [GitHub Repo](https://github.com/petromirkolev/motocare-service-tracker)
 
 [Live Demo](https://motocareservice.petromirkolev.com/)
@@ -39,6 +43,8 @@ Built and tested a complete app with user auth, motorcycle CRUD, maintenance sch
 Focused on backend state transitions, filtering, and controlled workflows. Includes Dockerized setup and **90 Playwright tests** covering UI flows and API endpoints, and running in GitHub Actions CI.
 
 #### ✅ Meteo Station Dashboard — Real-time sensor dashboard with deterministic testing
+
+[![pages-build-deployment](https://github.com/petromirkolev/Meteo-Station-Dashboard/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/petromirkolev/Meteo-Station-Dashboard/actions/workflows/pages/pages-build-deployment)
 
 [GitHub Repo](https://github.com/petromirkolev/meteo-station-dashboard)
 
