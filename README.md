@@ -55,7 +55,7 @@ Open to **Junior QA / Automation QA / SDET** positions. Always happy to discuss 
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" width="48" height="48"/>
   <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="48" height="48"/>
-  <img src="https://www.vectorlogo.zone/logos/html5/html5-icon.svg" alt="HTML5" width="48" height="48"/>
+  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML5" width="48" height="48"/>
   <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS3" width="48" height="48"/>
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/playwright.svg" alt="Playwright" width="48" height="48"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48"/>
