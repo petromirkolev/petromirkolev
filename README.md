@@ -1,79 +1,58 @@
-👋 Hi, I'm Petromir
+👋 Hi, I'm **Petromir**
 
-I’m transitioning into QA Automation through hands-on JavaScript/TypeScript projects focused on full-stack behavior, end-to-end testing, API validation, and CI reliability.
-
----
-
-### 🧠 Skills & Focus
-
-- JavaScript, TypeScript
-- Playwright E2E automation
-- API testing (Playwright request + Postman)
-- Test design, validation, and bug reporting
-- SQL and backend basics for QA
-- Building realistic apps with auth, API, database, CI, and deployment flows
+I build and test realistic full-stack applications using **Playwright**, with a focus on reliable E2E + API coverage, solid test design, and CI integration.
 
 ---
 
-## Key repositories
+### ⚡ About
 
-### ✅ MotoCare Maintenance Tracker — full-stack motorcycle maintenance app
+9 years in SaaS tech support taught me to think from the user's perspective first - understanding how things break in the real world, not just in theory. I bring that same mindset to QA: finding the edge cases that matter, writing tests that reflect real behavior, and building automation that teams can rely on.
+
+---
+
+### 🛠️ Core Skills
+
+- **Automation**: Playwright (E2E + API testing) • TypeScript / JavaScript
+- **Testing Practices**: Test design • Page Object Model • Validation & edge cases • Defect reporting
+- **Backend & Tools**: SQL (PostgreSQL / Neon) • Postman • GitHub Actions CI • Docker basics
+- **Full-stack awareness**: Auth flows, state management, CRUD, deployment (Render)
+
+---
+
+### 🚀 Key Projects
+
+#### ✅ MotoCare Maintenance Tracker — Full-stack motorcycle maintenance app
 
 [GitHub Repo](https://github.com/petromirkolev/motocare-maintenance-tracker)
 
 [Live Demo](https://motocaremaintenance.petromirkolev.com/)
 
-A full-stack motorcycle maintenance tracker built to learn QA-relevant engineering skills through a real deployed app.
+Built and tested a complete app with user auth, motorcycle CRUD, maintenance scheduling, and status logic.  
+**116 Playwright tests** covering UI flows + API endpoints, running in GitHub Actions CI.
 
-Highlights:
-
-- TypeScript frontend + Node/Express backend
-- PostgreSQL on Neon
-- Deployment on Render
-- User registration and login
-- Motorcycle CRUD
-- Maintenance scheduling and service logging
-- Maintenance history and derived status states
-- Playwright E2E + API coverage
-- GitHub Actions CI
-
-### ✅ MotoCare Service Tracker — motorcycle service workflow app
+#### ✅ MotoCare Service Tracker — Service job workflow application
 
 [GitHub Repo](https://github.com/petromirkolev/motocare-service-tracker)
 
 [Live Demo](https://motocareservice.petromirkolev.com/)
 
-A smaller full-stack project focused on service-job workflows, backend state transitions, and API-driven behavior.
+Focused on backend state transitions, filtering, and controlled workflows. Includes Dockerized setup and **90 Playwright tests** covering UI flows and API endpoints, and running in GitHub Actions CI.
 
-Highlights:
-
-- TypeScript frontend + Node/Express backend
-- PostgreSQL on Neon
-- deployment on Render
-- user registration and login
-- bike creation and deletion
-- service job creation and listing
-- controlled job status transitions
-- filtering and persistence behavior
-- Dockerized local run
-- Playwright UI + API coverage
-
-### ✅ Meteo Station Dashboard — real-time sensor dashboard with deterministic replay
+#### ✅ Meteo Station Dashboard — Real-time sensor dashboard with deterministic testing
 
 [GitHub Repo](https://github.com/petromirkolev/meteo-station-dashboard)
 
-A real-time dashboard project built to explore testable streaming data flows.
+Arduino Uno R4 Minima sensor data → WebSocket dashboard with **live mode vs replayable NDJSON** for reliable automated testing. Covered with **20 Playwright tests** focused on deterministic replay behavior.
 
-Highlights:
+---
 
-- Arduino sensor data streamed through a Node bridge
-- Browser dashboard updates over WebSocket
-- Live mode vs deterministic replay mode
-- Replayable NDJSON data for reliable automated testing
+Open to **Junior QA / Automation QA / SDET** positions. Always happy to discuss testing approaches or walk through the test suites. Feel free to explore the repos or reach out.
 
 ---
 
 ## Tools
+
+![Skill Icons](https://skillicons.dev/icons?i=javascript,typescript,html,css,playwright,postman,postgres,nodejs,express,docker,git,github,jira&theme=dark)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript)
@@ -82,9 +61,9 @@ Highlights:
 ![Playwright](https://img.shields.io/badge/Playwright-000000?style=for-the-badge&logo=playwright)
 ![Postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql)
-![SQLite](https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite)
 ![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
 ![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker)
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)
+![Jira](https://img.shields.io/badge/Jira-000000?style=for-the-badge&logo=jira)
