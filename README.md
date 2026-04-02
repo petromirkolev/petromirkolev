@@ -6,7 +6,7 @@ I’m transitioning into QA Automation through hands-on JavaScript/TypeScript pr
 
 ### ⚡ About
 
-9 years in SaaS tech support taught me to think from the user's perspective first - understanding how things break in the real world, not just in theory. I bring that same mindset to QA: finding the edge cases that matter, writing tests that reflect real behavior, and building automation that teams can rely on.
+9 years in SaaS tech support taught me to think from the user's perspective first - understanding how things break in the real world, not just in theory. I bring that same mindset to QA: finding the failure cases that matter, writing tests that reflect real behavior, and building automation that teams can rely on.
 
 ---
 
@@ -40,13 +40,13 @@ Built and tested a complete app with user auth, motorcycle CRUD, maintenance sch
 
 [Live Demo](https://motocareservice.petromirkolev.com/)
 
-Focused on backend state transitions, filtering, and controlled workflows. Includes Dockerized setup and **90 Playwright tests** covering UI flows and API endpoints, and running in GitHub Actions CI.
+Focused on backend state transitions, filtering, and controlled workflows. Includes Dockerized setup and **90 Playwright tests** covering UI flows and API endpoints, running in GitHub Actions CI.
 
-### ✅ Playwright External App Testing — QA automation against public third-party apps
+#### ✅ Playwright External App Testing — QA automation against public third-party apps
 
 [GitHub Repo](https://github.com/petromirkolev/playwright-external-app-testing)
 
-A Playwright-based QA automation project focused on testing external/public applications that I did not build myself. Includes **77 Playwright tests** covering UI flows and API endpoints, and running in GitHub Actions CI.
+A Playwright-based QA automation project focused on testing external/public applications that I did not build myself. Includes **77 Playwright tests** covering UI flows and API endpoints, running in GitHub Actions CI.
 
 #### ✅ Meteo Station Dashboard — Real-time sensor dashboard with deterministic testing
 
@@ -58,7 +58,7 @@ Arduino Uno R4 Minima sensor data → WebSocket dashboard with **live mode vs re
 
 ---
 
-Open to **Junior QA / Automation QA / SDET** positions. Always happy to discuss testing approaches or walk through the test suites. Feel free to explore the repos or reach out.
+Open to **Junior QA / Automation QA / SDET** positions. Feel free to explore the repositories and test suites.
 
 ---
 
