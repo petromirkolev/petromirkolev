@@ -52,5 +52,17 @@ Open to **Junior QA / Automation QA / SDET** positions. Always happy to discuss 
 
 ## Tools
 
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Skill Icons](https://skillicons.dev/icons?i=javascript,typescript,html,css,postman,postgres,neon,nodejs,express,render,docker,git,github,jira&theme=dark)
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" width="48" height="48"/>
+  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="48" height="48"/>
+  <img src="https://www.vectorlogo.zone/logos/html5/html5-icon.svg" alt="HTML5" width="48" height="48"/>
+  <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS3" width="48" height="48"/>
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/playwright.svg" alt="Playwright" width="48" height="48"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48"/>
+  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="48" height="48"/>
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="48" height="48"/>
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="48" height="48"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48"/>
+  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="48" height="48"/>
+  <img src="https://cdn.simpleicons.org/jira" alt="Jira" width="48" height="48"/>
+</p>
