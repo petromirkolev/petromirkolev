@@ -44,7 +44,7 @@ Focused on backend state transitions, filtering, and controlled workflows. Inclu
 
 #### ✅ Meteo Station Dashboard — Real-time sensor dashboard with deterministic testing
 
-[![pages-build-deployment](https://github.com/petromirkolev/Meteo-Station-Dashboard/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/petromirkolev/Meteo-Station-Dashboard/actions/workflows/pages/pages-build-deployment)
+[![Playwright Tests](https://github.com/petromirkolev/Meteo-Station-Dashboard/actions/workflows/playwright.yml/badge.svg)](https://github.com/petromirkolev/Meteo-Station-Dashboard/actions/workflows/playwright.yml)
 
 [GitHub Repo](https://github.com/petromirkolev/meteo-station-dashboard)
 
