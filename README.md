@@ -44,6 +44,8 @@ Focused on backend state transitions, filtering, and controlled workflows. Inclu
 
 #### ✅ Playwright External App Testing — QA automation against public third-party apps
 
+[![Playwright Tests](https://github.com/petromirkolev/playwright-external-app-testing/actions/workflows/contact-list.yml/badge.svg)](https://github.com/petromirkolev/playwright-external-app-testing/actions/workflows/contact-list.yml)
+
 [GitHub Repo](https://github.com/petromirkolev/playwright-external-app-testing)
 
 A Playwright-based QA automation project focused on testing external/public applications that I did not build myself. Includes **77 Playwright tests** covering UI flows and API endpoints, running in GitHub Actions CI.
