@@ -4,13 +4,13 @@ I’m transitioning into QA Automation through hands-on JavaScript/TypeScript pr
 
 ---
 
-## ⚡ About
+### ⚡ About
 
 9 years in SaaS tech support taught me to think from the user's perspective first - understanding how things break in the real world, not just in theory. I bring that same mindset to QA: finding the failure cases that matter, writing tests that reflect real behavior, and building automation that teams can rely on.
 
 ---
 
-## 🛠️ Core Skills
+### 🛠️ Core Skills
 
 - **Automation**: Playwright (E2E + API testing) • TypeScript / JavaScript
 - **Testing Practices**: Test design • Page Object Model • Validation & edge cases • Defect reporting
@@ -19,9 +19,9 @@ I’m transitioning into QA Automation through hands-on JavaScript/TypeScript pr
 
 ---
 
-## 🚀 Key Projects
+### 🚀 Key Projects
 
-### ✅ MotoCare Maintenance Tracker — Full-stack motorcycle maintenance app
+#### ✅ MotoCare Maintenance Tracker — Full-stack motorcycle maintenance app
 
 [![Playwright Tests](https://github.com/petromirkolev/MotoCare-Maintenance-Tracker/actions/workflows/playwright.yml/badge.svg)](https://github.com/petromirkolev/MotoCare-Maintenance-Tracker/actions/workflows/playwright.yml)
 
@@ -32,7 +32,7 @@ I’m transitioning into QA Automation through hands-on JavaScript/TypeScript pr
 Built and tested a complete app with user auth, motorcycle CRUD, maintenance scheduling, and status logic.  
 **116 Playwright tests** covering UI flows + API endpoints, running in GitHub Actions CI.
 
-### ✅ MotoCare Service Tracker — Service job workflow application
+#### ✅ MotoCare Service Tracker — Service job workflow application
 
 [![Playwright Tests](https://github.com/petromirkolev/MotoCare-Service-Tracker/actions/workflows/playwright.yml/badge.svg)](https://github.com/petromirkolev/MotoCare-Service-Tracker/actions/workflows/playwright.yml)
 
@@ -42,7 +42,7 @@ Built and tested a complete app with user auth, motorcycle CRUD, maintenance sch
 
 Focused on backend state transitions, filtering, and controlled workflows. Includes Dockerized setup and **90 Playwright tests** covering UI flows and API endpoints, running in GitHub Actions CI.
 
-### ✅ Playwright External App Testing — QA automation against public third-party apps
+#### ✅ Playwright External App Testing — QA automation against public third-party apps
 
 [![Playwright Tests](https://github.com/petromirkolev/playwright-external-app-testing/actions/workflows/contact-list.yml/badge.svg)](https://github.com/petromirkolev/playwright-external-app-testing/actions/workflows/contact-list.yml)
 
@@ -50,7 +50,7 @@ Focused on backend state transitions, filtering, and controlled workflows. Inclu
 
 A Playwright-based QA automation project focused on testing external/public applications that I did not build myself. Includes **77 Playwright tests** covering UI flows and API endpoints, running in GitHub Actions CI.
 
-### ✅ Meteo Station Dashboard — Real-time sensor dashboard with deterministic testing
+#### ✅ Meteo Station Dashboard — Real-time sensor dashboard with deterministic testing
 
 [![Playwright Tests](https://github.com/petromirkolev/Meteo-Station-Dashboard/actions/workflows/playwright.yml/badge.svg)](https://github.com/petromirkolev/Meteo-Station-Dashboard/actions/workflows/playwright.yml)
 
@@ -64,7 +64,7 @@ Open to **Junior QA / Automation QA / SDET** positions. Feel free to explore the
 
 ---
 
-## Tools
+### Tools
 
 <p>
   <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" width="48" height="48"/>
