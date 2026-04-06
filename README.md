@@ -29,6 +29,8 @@ I’m transitioning into QA Automation through hands-on JavaScript/TypeScript pr
 
 [Live Demo](https://motocaremaintenance.petromirkolev.com/)
 
+[Allure test report](https://petromirkolev.github.io/MotoCare-Maintenance-Tracker/)
+
 Built and tested a complete app with user auth, motorcycle CRUD, maintenance scheduling, and status logic.
 
 **116 Playwright tests (348 executions across Chromium, Firefox, and WebKit)** covering UI flows + API endpoints, running in GitHub Actions CI.
@@ -41,6 +43,8 @@ Built and tested a complete app with user auth, motorcycle CRUD, maintenance sch
 
 [Live Demo](https://motocareservice.petromirkolev.com/)
 
+[Allure test report](https://petromirkolev.github.io/MotoCare-Service-Tracker/)
+
 Focused on backend state transitions, filtering, and controlled workflows. Includes Dockerized setup and **90 Playwright tests (270 executions across Chromium, Firefox, and WebKit)** covering UI flows and API endpoints, running in GitHub Actions CI.
 
 #### ✅ Playwright External App Testing — QA automation against public third-party apps
@@ -48,6 +52,8 @@ Focused on backend state transitions, filtering, and controlled workflows. Inclu
 [![Playwright Tests](https://github.com/petromirkolev/playwright-external-app-testing/actions/workflows/contact-list.yml/badge.svg)](https://github.com/petromirkolev/playwright-external-app-testing/actions/workflows/contact-list.yml)
 
 [GitHub Repo](https://github.com/petromirkolev/playwright-external-app-testing)
+
+[Allure test report](https://petromirkolev.github.io/playwright-external-app-testing/)
 
 A Playwright-based QA automation project focused on testing external/public applications that I did not build myself. Includes **77 Playwright tests** covering UI flows and API endpoints, running in GitHub Actions CI.
 
