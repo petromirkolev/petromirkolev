@@ -29,8 +29,9 @@ I’m transitioning into QA Automation through hands-on JavaScript/TypeScript pr
 
 [Live Demo](https://motocaremaintenance.petromirkolev.com/)
 
-Built and tested a complete app with user auth, motorcycle CRUD, maintenance scheduling, and status logic.  
-**116 Playwright tests** covering UI flows + API endpoints, running in GitHub Actions CI.
+Built and tested a complete app with user auth, motorcycle CRUD, maintenance scheduling, and status logic.
+
+**116 Playwright tests (348 executions across Chromium, Firefox, and WebKit)** covering UI flows + API endpoints, running in GitHub Actions CI.
 
 #### ✅ MotoCare Service Tracker — Service job workflow application
 
@@ -40,7 +41,7 @@ Built and tested a complete app with user auth, motorcycle CRUD, maintenance sch
 
 [Live Demo](https://motocareservice.petromirkolev.com/)
 
-Focused on backend state transitions, filtering, and controlled workflows. Includes Dockerized setup and **90 Playwright tests** covering UI flows and API endpoints, running in GitHub Actions CI.
+Focused on backend state transitions, filtering, and controlled workflows. Includes Dockerized setup and **90 Playwright tests (270 executions across Chromium, Firefox, and WebKit)** covering UI flows and API endpoints, running in GitHub Actions CI.
 
 #### ✅ Playwright External App Testing — QA automation against public third-party apps
 
