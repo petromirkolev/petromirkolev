@@ -49,13 +49,13 @@ Focused on backend state transitions, filtering, and controlled workflows. Inclu
 
 #### ✅ Playwright External App Testing — QA automation against public third-party apps
 
-[![Playwright Tests](https://github.com/petromirkolev/playwright-external-app-testing/actions/workflows/contact-list.yml/badge.svg)](https://github.com/petromirkolev/playwright-external-app-testing/actions/workflows/contact-list.yml)
+[![External App Tests](https://github.com/petromirkolev/playwright-external-app-testing/actions/workflows/external-apps.yml/badge.svg)](https://github.com/petromirkolev/playwright-external-app-testing/actions/workflows/external-apps.yml)
 
 [GitHub Repo](https://github.com/petromirkolev/playwright-external-app-testing)
 
 [Allure test report](https://petromirkolev.github.io/playwright-external-app-testing/)
 
-A Playwright-based QA automation project focused on testing external/public applications that I did not build myself. Includes **77 Playwright tests** covering UI flows and API endpoints, running in GitHub Actions CI.
+A Playwright-based QA automation project focused on testing external/public applications that I did not build myself. Includes **121 Playwright tests** covering UI flows and API endpoints, running in GitHub Actions CI.
 
 #### ✅ Meteo Station Dashboard — Real-time sensor dashboard with deterministic testing
 
