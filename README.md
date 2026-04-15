@@ -73,7 +73,7 @@ Open to **Junior QA / Automation QA / SDET** positions. Feel free to explore the
 
 ### Tools
 
-<p>
+<p align="left">
   <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" width="48" height="48"/>
   <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="48" height="48"/>
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/playwright.svg" alt="Playwright" width="48" height="48"/>
