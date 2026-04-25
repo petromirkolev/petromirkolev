@@ -1,12 +1,16 @@
 👋 Hi, I'm Petromir
 
-I’m transitioning into QA Automation through hands-on JavaScript/TypeScript projects focused on UI automation, API validation, full-stack behavior, and CI reliability.
+Junior QA Engineer focused on test automation with Playwright and TypeScript.
 
 ---
 
 ### ⚡ About
 
-9 years in SaaS tech support taught me to think from the user's perspective first - understanding how things break in the real world, not just in theory. I bring that same mindset to QA: finding the failure cases that matter, writing tests that reflect real behavior, and building automation that teams can rely on.
+QA Engineer with a background in SaaS technical support, where a big part of the work involved understanding how systems fail in real-world conditions, reproducing customer-facing issues, and communicating them clearly.
+
+That experience translates directly into QA: identifying meaningful failure cases, understanding frontend–backend interactions, and building automation that reflects real user behavior.
+
+Currently working with Playwright and TypeScript to build and maintain automated tests, with focus on reliability, maintainability, and clear structure (POM, fixtures, stable selectors).
 
 ---
 
