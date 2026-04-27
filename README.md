@@ -59,7 +59,7 @@ Focused on backend state transitions, filtering, and controlled workflows. Inclu
 
 [Allure test report](https://petromirkolev.github.io/playwright-external-app-testing/)
 
-A Playwright-based QA automation project focused on testing external/public applications that I did not build myself. Includes **203 Playwright tests** covering UI flows and API endpoints, running in GitHub Actions CI.
+A Playwright-based QA automation project focused on testing external/public applications that I did not build myself. Includes **220 Playwright tests** covering UI flows and API endpoints, running in GitHub Actions CI.
 
 #### ✅ Meteo Station Dashboard — Real-time sensor dashboard with deterministic testing
 
