@@ -75,39 +75,39 @@ Arduino Uno R4 Minima sensor data → WebSocket dashboard with **live mode vs re
 
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img alt="JavaScript" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="48" height="48" />
+    <img alt="JavaScript" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="48" />
   </a>
   <a href="https://www.typescriptlang.org/">
-    <img alt="TypeScript" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="48" height="48" />
+    <img alt="TypeScript" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="48" />
   </a>
   <a href="https://playwright.dev/">
-    <img alt="Playwright" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/playwright.svg" width="48" height="48" />
+    <img alt="Playwright" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/playwright.svg" width="48" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img alt="HTML5" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="48" height="48" />
+    <img alt="HTML5" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="48" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-    <img alt="CSS3" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon~old.svg" width="48" height="48" />
+    <img alt="CSS3" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon~old.svg" width="48" />
   </a>
   <a href="https://www.postman.com/">
-    <img alt="Postman" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" />
+    <img alt="Postman" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" />
   </a>
   <a href="https://www.postgresql.org/">
-    <img alt="PostgreSQL" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="48" height="48" />
+    <img alt="PostgreSQL" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="48" />
   </a>
   <a href="https://nodejs.org/">
-    <img alt="Node.js" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="48" height="48" />
+    <img alt="Node.js" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="48" />
   </a>
   <a href="https://www.docker.com/">
-    <img alt="Docker" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="48" height="48" />
+    <img alt="Docker" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="48" />
   </a>
   <a href="https://git-scm.com/">
-    <img alt="Git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" height="48" />
+    <img alt="Git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" />
   </a>
   <a href="https://github.com/">
-    <img alt="GitHub" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="48" height="48" />
+    <img alt="GitHub" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="48" />
   </a>
   <a href="https://www.atlassian.com/software/jira">
-    <img alt="Jira" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" width="48" height="48" />
+    <img alt="Jira" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" width="48" />
   </a>
 </p>
