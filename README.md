@@ -75,10 +75,10 @@ Arduino Uno R4 Minima sensor data → WebSocket dashboard with **live mode vs re
 
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img alt="JavaScript" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="48" />
+    <img alt="JavaScript" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="48"/>
   </a>
   <a href="https://www.typescriptlang.org/">
-    <img alt="TypeScript" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="48" />
+    <img alt="TypeScript" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="48"/>
   </a>
   <a href="https://playwright.dev/">
     <img alt="Playwright" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/playwright.svg" width="48" />
